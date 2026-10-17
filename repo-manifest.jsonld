@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/fastai/fastcore/commit/9d2e1395ca4c304189a62a54701ef6107d5988dd",
       "git:hexsha": "9d2e1395ca4c304189a62a54701ef6107d5988dd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T04:30:15.788668+00:00"
     },
     {
       "@id": "https://repolex.ai/r/fastai/fastcore/commit/ff7ebd4da33c5fc525e17f00c15ecbccb9d13cdf",
